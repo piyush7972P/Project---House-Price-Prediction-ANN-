@@ -85,5 +85,5 @@ Feel free to fork this repository and contribute!
 ## 📬 Contact
 
 For any queries or collaboration:
-- Email: your_email@example.com
-- LinkedIn: your_linkedin_profile
+- Email: piyushvijaythere7972@gmail.com
+- LinkedIn: https://www.linkedin.com/in/piyush7972/
